@@ -3,7 +3,7 @@
 
 hi,
 
-what we have here is just a basic website template based on simple portfolio or, with few more changes, realy basic blog and even fanpage.
+what we have here is just a bunch of exercises done for school puposesss only.
 
 i rly hope 4 3 ;)
 
